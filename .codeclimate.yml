@@ -1,6 +1,7 @@
 version: "2"
 exclude_patterns:
   - "__tests__/"
+  - "src/data.js"
   - ".babelrc"
   - ".browserslistrc"
   - ".codeclimate.yml"
