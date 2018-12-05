@@ -1,4 +1,4 @@
-# NPM Boilerplate
+# Country Flag Emoji
 
 [![Build Status](https://flat.badgen.net/travis/risan/country-flag-emoji)](https://travis-ci.org/risan/country-flag-emoji)
 [![Test Coverage](https://flat.badgen.net/codeclimate/coverage/risan/country-flag-emoji)](https://codeclimate.com/github/risan/country-flag-emoji)
