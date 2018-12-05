@@ -23,10 +23,10 @@ Use this library directly on the browser:
 
 ```html
 <!-- For development -->
-<script src="https://unpkg.com/country-flag-emoji@latest/dist/foo.umd.js"></script>
+<script src="https://unpkg.com/country-flag-emoji@latest/dist/country-flag-emoji.umd.js"></script>
 
 <!-- Minified version for production -->
-<script src="https://unpkg.com/country-flag-emoji@latest/dist/foo.umd.min.js"></script>
+<script src="https://unpkg.com/country-flag-emoji@latest/dist/country-flag-emoji.umd.min.js"></script>
 ```
 
 ## Quick Start
