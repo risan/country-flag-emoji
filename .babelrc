@@ -1,0 +1,20 @@
+{
+  "env": {
+    "build": {
+      "presets": [
+        ["@babel/preset-env", {
+          "modules": false,
+          "useBuiltIns": "usage"
+        }]
+      ]
+    },
+    "test": {
+      "presets": [
+        ["@babel/preset-env", {
+          "useBuiltIns": "usage",
+          "targets": "node 8"
+        }]
+      ]
+    }
+  }
+}
