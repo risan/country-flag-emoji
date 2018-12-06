@@ -3,7 +3,6 @@ coverage
 src
 .babelrc
 .browserslistrc
-.codeclimate.yml
 .eslintignore
 .eslintrc.js
 .travis.yml

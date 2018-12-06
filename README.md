@@ -1,35 +1,30 @@
 # Country Flag Emoji
 
-[![Build Status](https://flat.badgen.net/travis/risan/country-flag-emoji)](https://travis-ci.org/risan/country-flag-emoji)
-[![Test Coverage](https://flat.badgen.net/codeclimate/coverage/risan/country-flag-emoji)](https://codeclimate.com/github/risan/country-flag-emoji)
-[![Maintainability](https://flat.badgen.net/codeclimate/maintainability/risan/country-flag-emoji)](https://codeclimate.com/github/risan/country-flag-emoji)
-[![Latest Stable Version](https://flat.badgen.net/npm/v/country-flag-emoji)](https://www.npmjs.com/package/country-flag-emoji)
-[![Node Version](https://flat.badgen.net/npm/node/country-flag-emoji)](https://www.npmjs.com/package/country-flag-emoji)
-[![Code Style: Prettier](https://flat.badgen.net/badge/code%20style/prettier/ff69b4)](https://github.com/prettier/prettier)
-[![License](https://flat.badgen.net/npm/license/country-flag-emoji)](https://github.com/risan/country-flag-emoji/blob/master/LICENSE)
+[![Build Status](https://badgen.net/travis/risan/country-flag-emoji)](https://travis-ci.org/risan/country-flag-emoji)
+[![Test Covarage](https://badgen.net/codecov/c/github/risan/country-flag-emoji)](https://codecov.io/gh/risan/country-flag-emoji)
+[![Greenkeeper](https://badges.greenkeeper.io/risan/country-flag-emoji.svg)](https://greenkeeper.io)
+[![Latest Version](https://badgen.net/npm/v/country-flag-emoji)](https://www.npmjs.com/package/country-flag-emoji)
 
 List of country codes and its flag emojis.
 
-## Install
+## Installation
 
 ```bash
 $ npm install country-flag-emoji
-
-# Or if you use Yarn
-$ yarn add country-flag-emoji
 ```
 
-Use this library directly on the browser:
+### CDN
+
+The library is available over a CDN:
 
 ```html
-<!-- For development -->
 <script src="https://unpkg.com/country-flag-emoji@latest/dist/country-flag-emoji.umd.js"></script>
 
-<!-- Minified version for production -->
+<!-- Or the minified version -->
 <script src="https://unpkg.com/country-flag-emoji@latest/dist/country-flag-emoji.umd.min.js"></script>
 ```
 
-## Quick Start
+## Usage
 
 ```js
 import countryFlagEmoji from "country-flag-emoji";
@@ -155,4 +150,4 @@ There are three possible return types:
 
 ## License
 
-MIT © [Risan Bagja Pradana](https://bagja.net)
+[MIT](https://github.com/risan/country-flag-emoji/blob/master/LICENSE) © [Risan Bagja Pradana](https://bagja.net)

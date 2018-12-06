@@ -3,5 +3,5 @@ module.exports = {
   verbose: true,
   resetMocks: true,
   collectCoverage: true,
-  collectCoverageFrom: ["src/*.js"]
+  collectCoverageFrom: ["src/**/*.js"]
 };

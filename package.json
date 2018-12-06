@@ -1,6 +1,6 @@
 {
   "name": "country-flag-emoji",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "List of country codes and its flag emojis",
   "keywords": [
     "country",
@@ -32,7 +32,6 @@
     "prepublishOnly": "npm run lint && npm run test && npm run build",
     "test": "NODE_ENV=test jest"
   },
-  "dependencies": {},
   "devDependencies": {
     "@babel/core": "^7.1.6",
     "@babel/preset-env": "^7.1.6",
