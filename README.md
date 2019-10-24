@@ -2,7 +2,6 @@
 
 [![Build Status](https://badgen.net/travis/risan/country-flag-emoji)](https://travis-ci.org/risan/country-flag-emoji)
 [![Test Covarage](https://badgen.net/codecov/c/github/risan/country-flag-emoji)](https://codecov.io/gh/risan/country-flag-emoji)
-[![Greenkeeper](https://badges.greenkeeper.io/risan/country-flag-emoji.svg)](https://greenkeeper.io)
 [![Latest Version](https://badgen.net/npm/v/country-flag-emoji)](https://www.npmjs.com/package/country-flag-emoji)
 
 List of country codes and its flag emojis.
@@ -150,4 +149,4 @@ There are three possible return types:
 
 ## License
 
-[MIT](https://github.com/risan/country-flag-emoji/blob/master/LICENSE) © [Risan Bagja Pradana](https://bagja.net)
+[MIT](https://github.com/risan/country-flag-emoji/blob/master/LICENSE) © [Risan Bagja Pradana](https://risanb.com)
